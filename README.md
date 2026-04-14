@@ -44,4 +44,4 @@ If you find these tools useful, or if you're that "one in a million" person who 
 もしこれらのツールが役に立ったり、「まさにこれが必要だった！」という奇特な（？）方がいれば、ぜひスターをいただけると励みになります。
 
 ---
-Copyright (c) 2024-2026 YourName (or Handle)
+Copyright (c) 2024-2026 oji._.chaaaan
